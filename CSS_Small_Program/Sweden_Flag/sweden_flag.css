@@ -1,0 +1,43 @@
+* {
+    background-color: black;
+}
+
+h3 {
+    color: aqua;
+}
+
+.container {
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    position: relative;
+}
+
+.first, .second {
+    background-color:rgb(14, 14, 159);;
+    height: 90px;
+    width: 110px;
+}
+
+.second {
+    position: absolute;
+    bottom:0px;
+}
+
+.third, .fourth {
+    background-color:rgb(14, 14, 159);
+    height: 90px;
+    width: 170px;
+}
+
+.third {
+    position: absolute;
+    right:0px;
+    top:0px;
+}
+
+.fourth {
+    position: absolute;
+    right:0px;
+    bottom:0px;
+}

@@ -1,0 +1,39 @@
+* {
+    background-color: black;
+}
+
+h3 {
+    color: aqua;
+}
+
+.container {
+    background-color: white;
+    height: 300px;
+    width: 400px;
+}
+
+.first_red_line {
+    height: 70px;
+    background-color: red;
+}
+
+.mid_part {
+    height: 160px;
+    background-color: rgb(7, 7, 77);
+    position: relative;
+}
+
+.last_red_line {
+    height: 70px;
+    background-color: red;
+}
+
+.circle {
+    background-color: white;
+    height: 120px;
+    width:120px;
+    border-radius: 60px;
+    position: absolute;
+    left: 130px;
+    top: 20px;
+}
